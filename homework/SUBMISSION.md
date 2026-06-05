@@ -2,7 +2,7 @@
 
 ## Ссылка на репозиторий с заданием
 
-- Repo URL: [`<вставьте ссылку на ваш репозиторий>`](https://github.com/murchichnatalia/rag-homework-murchich)
+- Repo URL: https://github.com/murchichnatalia/rag-homework-murchich
 
 ## Автор
 
